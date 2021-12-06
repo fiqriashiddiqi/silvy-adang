@@ -225,7 +225,7 @@ jQuery(function($){
 						<h4 class="et_pb_module_header" ><span style="font-family:'Vibur',cursive">Silvy & Adang</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">18 Desember 2021</p></div>
 
-						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/nua7uoa8p6rpbji5482anvlbkc%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #a87850;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
+						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/jubrfa3henn606f2qei8343mcs%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #a87850;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
