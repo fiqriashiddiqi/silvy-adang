@@ -225,7 +225,7 @@ jQuery(function($){
 						<h4 class="et_pb_module_header" ><span style="font-family:'Vibur',cursive">Silvy & Adang</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">18 Desember 2021</p></div>
 
-						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/jubrfa3henn606f2qei8343mcs%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #a87850;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
+						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/calendar/ical/jubrfa3henn606f2qei8343mcs%40group.calendar.google.com/public/basic.ics" target="_blank" style="background-color: #85b5b5;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -235,7 +235,7 @@ jQuery(function($){
 			</div> <!-- .et_pb_row -->
 				
 				<div class="et_pb_bottom_inside_divider et-no-transition"></div>
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider" style="background-color: #a87850!important;">
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider" style="background-color: #85b5b5!important;">
 				
 				
 				
@@ -244,10 +244,10 @@ jQuery(function($){
 				<div class="et_pb_column et_pb_column_4_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
 				
 				
-				<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint" style="width:160px;margin-bottom:10px">
 				
 				
-				<span class="et_pb_image_wrap "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="Bird" height="auto" width="auto" data-lazy-srcset="https://ngantenstory.com/wp-content/uploads/2020/02/Bird.png 250w, https://ngantenstory.com/wp-content/uploads/2020/02/Bird-150x150.png 150w" data-lazy-sizes="(max-width: 250px) 100vw, 250px" class="wp-image-780" data-lazy-src="../wp-content/uploads/2020/02/Bird.png" /><noscript><img src="../wp-content/uploads/2020/02/Bird.png" alt="" title="Bird" height="auto" width="auto" srcset="https://ngantenstory.com/wp-content/uploads/2020/02/Bird.png 250w, https://ngantenstory.com/wp-content/uploads/2020/02/Bird-150x150.png 150w" sizes="(max-width: 250px) 100vw, 250px" class="wp-image-780" /></noscript></span>
+				<span class="et_pb_image_wrap "><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" alt="" title="Bird" height="auto" width="auto" data-lazy-srcset="../wp-content/uploads/2020/02/bismillah-gold.png 250w, ../wp-content/uploads/2020/02/bismillah-gold.png 150w" data-lazy-sizes="(max-width: 250px) 100vw, 250px" class="wp-image-780" data-lazy-src="../wp-content/uploads/2020/02/bismillah-gold.png" /><noscript><img src="../wp-content/uploads/2020/02/bismillah-gold.png" alt="" title="Bird" height="auto" width="auto" srcset="../wp-content/uploads/2020/02/bismillah-gold.png 250w, ../wp-content/uploads/2020/02/bismillah-gold.png 150w" sizes="(max-width: 250px) 100vw, 250px" class="wp-image-780" /></noscript></span>
 			</div><div class="et_pb_module et_pb_text et_pb_text_2 et_animated  et_pb_text_align_center et_pb_bg_layout_dark">
 				
 				
@@ -274,8 +274,8 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_text_inner">
-					<h1>Silvyawati Saputri Azhar S.T</h1>
-                	<p><strong>Putri dari</strong><br> Bpk. H. Uyud Wahyudin M.Pd<br> &amp; Ibu Hj. Heni Supartini S.Kep</p>
+					<h1 style="color:#85b5b5!important">Silvyawati Saputri Azhar S.T</h1>
+                	<p><strong>Putri kedua dari:</strong><br> Bpk. H. Uyud Wahyudin M.Pd<br> &amp; Ibu Hj. Heni Supartini S.Kep</p>
 				</div>
 			</div> <!-- .et_pb_text -->
 			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
@@ -293,8 +293,8 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_text_inner">
-					<h1>Adang Sukmana S.T</h1>
-                    <p><strong>Putra dari</strong><br> Bpk. H. Mahjun<br> &amp; Ibu Hj. Marni (Almh)</p>
+					<h1 style="color:#85b5b5!important">Adang Sukmana S.T</h1>
+                    <p><strong>Putra kedua dari:</strong><br> Bpk. H. Mahjun<br> &amp; Ibu Hj. Marni (Almh)</p>
 				</div>
 			</div> <!-- .et_pb_text -->
 			</div> <!-- .et_pb_column -->
@@ -308,7 +308,7 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_countdown_timer_container clearfix">
-					<h4 class="title">Hari Yang Kami Tunggu</h4>
+					<h4 class="title" style="color:#85b5b5!important">Hari Yang Kami Tunggu</h4>
 					<div class="days section values" data-short="Day" data-full="Day(s)">
 						<p class="value"></p>
 						<p class="label">Day(s)</p>
@@ -333,7 +333,7 @@ jQuery(function($){
 			</div> <!-- .et_pb_column -->
 				
 				
-			</div> <!-- .et_pb_row --><div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #a87850!important;">
+			</div> <!-- .et_pb_row --><div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #85b5b5!important;">
 				<div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough">
 				
 				
@@ -343,7 +343,7 @@ jQuery(function($){
 				<div class="et_pb_blurb_content">
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img width="55" height="63" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2063'%3E%3C/svg%3E" alt="" class="et-waypoint et_pb_animation_top wp-image-882" data-lazy-src="../wp-content/uploads/2020/02/section-title-img-1.png" /><noscript><img width="55" height="63" src="../wp-content/uploads/2020/02/section-title-img-1.png" alt="" class="et-waypoint et_pb_animation_top wp-image-882" /></noscript></span></div>
 					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Akad Nikah</span></h4>
+						<h4 class="et_pb_module_header" style="color:#85b5b5!important"><span>Akad Nikah</span></h4>
 						<div class="et_pb_blurb_description">
 							<p>Sabtu, 18 Desember 2021<br> 10.00 s/d 11.00 WIB<br> <strong>Kediaman Mempelai Wanita</strong><br> BTN Caracas Blok C1 RT 24 RW 06 desa Caracas Kecamatan Cilimus,<br> Kab. Kuningan, Jawa Barat</p>
 						</div>
@@ -359,7 +359,7 @@ jQuery(function($){
 				<div class="et_pb_blurb_content">
 					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap"><img width="55" height="63" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2063'%3E%3C/svg%3E" alt="" class="et-waypoint et_pb_animation_top wp-image-882" data-lazy-src="../wp-content/uploads/2020/02/section-title-img-1.png" /><noscript><img width="55" height="63" src="../wp-content/uploads/2020/02/section-title-img-1.png" alt="" class="et-waypoint et_pb_animation_top wp-image-882" /></noscript></span></div>
 					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
+						<h4 class="et_pb_module_header" style="color:#85b5b5!important"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
 							<p>Sabtu, 18 Desember 2021<br> 11.00 s/d 16.00 WIB<br> <strong>Kediaman Mempelai Wanita</strong><br> BTN Caracas Blok C1 RT 24 RW 06 desa Caracas Kecamatan Cilimus,<br> Kab. Kuningan, Jawa Barat</p>
 						</div>
@@ -374,7 +374,7 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://goo.gl/maps/AuFFWQY4mh7fFZ7x8" target="_blank" style="background-color: #a87850!important;">Google Maps</a>
+				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://goo.gl/maps/AuFFWQY4mh7fFZ7x8" target="_blank" style="background-color: #85b5b5!important;">Google Maps</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
@@ -472,7 +472,7 @@ jQuery(function($){
 				
 				
 				
-					<div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #a87850!important;">
+					<div class="et_pb_with_border et_pb_row et_pb_row_5" style="border-color: #85b5b5!important;">
 				<div class="et_pb_column et_pb_column_1_2 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough" style="width: 100%;">
 				
 				
@@ -482,7 +482,7 @@ jQuery(function($){
 				<div class="et_pb_blurb_content">
 					
 					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span>Protokol Kesehatan</span></h4>
+						<h4 class="et_pb_module_header" style="color:#85b5b5!important"><span>Protokol Kesehatan</span></h4>
 						<div class="et_pb_blurb_description">
 							<img src="covid.png" style="width:100%;" class="et_pb_animation_top" />
 						</div>
@@ -504,7 +504,7 @@ jQuery(function($){
 				
 				
 			</div>
-			<div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider" style="background-color: #a87850!important;">
+			<div class="et_pb_section et_pb_section_5 et_pb_with_background et_section_regular section_has_divider et_pb_bottom_divider et_pb_top_divider" style="background-color: #85b5b5!important;">
 				
 				
 				
@@ -586,7 +586,7 @@ jQuery(function($){
 						<!-- <input type="hidden" value="et_contact_proccess" name="et_pb_contactform_submit_0"/> -->
 						<div class="et_contact_bottom_container">
 							
-							<button type="submit" class="et_pb_contact_submit et_pb_button" style="background-color: #a87850">Kirim</button>
+							<button type="submit" class="et_pb_contact_submit et_pb_button" style="background-color: #85b5b5">Kirim</button>
 						</div>
 						<!-- <input type="hidden" id="_wpnonce-et-pb-contact-form-submitted-0" name="_wpnonce-et-pb-contact-form-submitted-0" value="c9b9bf1646" /><input type="hidden" name="_wp_http_referer" value="" /> -->
 					</form>
@@ -606,7 +606,7 @@ jQuery(function($){
 				<div class="et_pb_blurb_content">
 					
 					<div class="et_pb_blurb_container">
-						<h4 class="et_pb_module_header"><span style="font-size: 20px;">Terima kasih</span></h4>
+						<h4 class="et_pb_module_header"><span style="font-size: 20px;">Atas kehadiran dan doa restu, kami ucapkan terima kasih</span></h4>
 						<div class="et_pb_blurb_description"><p><br>Silvy &amp; Adang</p></div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
