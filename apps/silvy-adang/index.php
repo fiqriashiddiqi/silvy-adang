@@ -137,7 +137,7 @@ jQuery(function($){
 			
 		<div class="et-l et-l--post">
 			<div class="et_builder_inner_content et_pb_gutters3">
-		<div id="welcome-gate" class="et_pb_section et_pb_section_0 et_animated et_pb_with_background et_section_regular" >
+		<div id="welcome-gate" class="et_pb_section et_pb_section_0 et_animated et_pb_with_background et_section_regular" style="background:black!important;">
 				
 				
 				
@@ -149,10 +149,13 @@ jQuery(function($){
 				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_center et_pb_bg_layout_light">
 				
 				
-				<div class="et_pb_text_inner"><p id="namaUndangan"></p>
-				<h2>You Are Invited!&nbsp;</h2>
-<p>The Wedding of </p>
-<h1>Silvy & Adang</h1>
+				<div class="et_pb_text_inner">
+					<h1>Silvy & Adang</h1>
+				<img src="adang.png" style="width:100%;" />
+					
+					<h2>Kepada Yth</h2>
+<p>Bapak/Ibu/Saudara/i&nbsp;</p>
+<p id="namaUndangan"></p>
 <script>
         const queryString = window.location.search;
         console.log(queryString);
@@ -161,8 +164,9 @@ jQuery(function($){
         var nama = urlParams.get('nama');
         var test = 7;
         console.log(nama);
-        document.getElementById("namaUndangan").innerHTML = "Dear "+ nama +",";
+        document.getElementById("namaUndangan").innerHTML = nama;
 </script>
+<p>di tempat</p>
 </div>
 			</div> <!-- .et_pb_text --><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
 				<a class="et_pb_button et_pb_custom_button_icon et_pb_button_0 et_animated et_pb_bg_layout_light" href="#" data-icon="&#xe089;">Buka Undangan</a>
