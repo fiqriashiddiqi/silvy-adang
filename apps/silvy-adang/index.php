@@ -151,7 +151,7 @@ jQuery(function($){
 				
 				<div class="et_pb_text_inner">
 					<h1>Silvy & Adang</h1>
-				<img src="adang.png" style="width:100%;" />
+				<img src="adang.png" style="width:50%;" />
 					
 					<h2>Kepada Yth</h2>
 <p>Bapak/Ibu/Saudara/i&nbsp;</p>
